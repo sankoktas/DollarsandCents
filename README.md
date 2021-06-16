@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class KFS_DollarsAndCents_Main
 
 {
+    
     public static void main (String [] args)
     
     {
