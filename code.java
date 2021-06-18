@@ -3,11 +3,8 @@ This program reads a price and prints the dollars and cents.
 
 import java.util.Scanner;
 public class KFS_DollarsAndCents_Main
-
 {
-    
     public static void main (String [] args)
-    
     {
        Scanner in = new Scanner(System.in);
        System.out.print("Enter the price: ");
@@ -18,5 +15,4 @@ public class KFS_DollarsAndCents_Main
         
        System.out.print("The price is " + (dollars) + " dollars and " + cents + " cents.");
     }
-    
 }
